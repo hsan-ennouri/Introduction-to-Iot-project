@@ -3,7 +3,7 @@
 Engineered a secure, internet-connected physical vault as part of the CS3237 Introduction to IoT course at the National University of Singapore (NUS). Designed the complete mechanical enclosure, integrated the hardware components, and developed the local embedded firmware. The system utilizes an ESP32 microcontroller to handle multi-factor authentication, physical actuation, and cloud connectivity.
 
 ## Key Features
-Multi-Factor Authentication: Integrates a 4x4 matrix keypad and facial recognition for secure user verification.
+Multi-Factor Authentication: Integrates a 4x4 matrix keypad, facial recognition and speech to text transcription for secure user verification.
 
 Custom Locking Mechanism: Actuates a custom-designed 3D-printed sliding-bolt lock using a precision servo motor.
 
