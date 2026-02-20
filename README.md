@@ -22,6 +22,12 @@ LCD Display (I2C)
 
 Servo Motor
 
+INMP441 Microphone
+
+Active buzzer
+
+ESP32-CAM
+
 Custom 3D Printed Enclosure and Mechanical Fasteners
 
 ## Software Architecture
